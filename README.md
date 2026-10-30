@@ -30,7 +30,7 @@ The workbook has four pages linked by a navigation bar (buttons 1–4).
 * Orders by year (69% / 31% split)
 * Shop-type sales: Express ($2.22M), Outlet ($2.11M), Mall ($2.10M), Flagship ($1.99M), Standard ($1.96M)
 * Manager slicer to filter the whole page
-(Images/Dashboard-1-Ecommerce.png)
+![Alt Text](Images/Dashboard-1-Ecommerce.png)
 
 ## 2. Product Analysis Dashboard
 
