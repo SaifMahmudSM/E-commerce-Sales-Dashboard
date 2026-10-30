@@ -8,16 +8,16 @@ Compare regional performance, delivery speed and customer satisfaction.
 Understand customer demographics and who drives revenue.
 
 # Headline KPIs 📈 
-Metric                     Value
-Total Target             	$11.40M
-Total Revenue	            $10.37M
-Total Profit	            $3.44M
-Achievement %	            90.99%
-Total Orders	            1.00K
-Quantity Sold	            3.40K
-Total Customers	          200
-Avg Order Value	          $10.37K
-Avg Discount	            9.01%
+### Metric                     Value
+### Total Target             	$11.40M
+### Total Revenue	            $10.37M
+### Total Profit	            $3.44M
+### Achievement %	            90.99%
+### Total Orders	            1.00K
+### Quantity Sold	            3.40K
+### Total Customers	          200
+### Avg Order Value	          $10.37K
+### Avg Discount	            9.01%
 
 # Dashboard Pages
 The workbook has four pages linked by a navigation bar (buttons 1–4).
@@ -74,28 +74,32 @@ The workbook has four pages linked by a navigation bar (buttons 1–4).
 * Charts: column, line, donut, pie, bar, stacked bar, funnel
 
 # Repository Structure 📁
-ecommerce-sales-dashboard/
-├── README.md
-├── data/
-│   └── Data.xlsx
-├── Dashboard/
-│   └── Dashboard_file.xlsx
-├── images/
-│   ├── cover.png
-│   ├── dashboard-1-ecommerce.png
-│   ├── dashboard-2-product.png
-│   ├── dashboard-3-customer.png
-│   └── dashboard-4-region.png
-└── Ecommerce_Dashboard_portfolio.pdf
+## ecommerce-sales-dashboard/
+####  README.md
+          → README.md
+   
+### Data
+          → Data.xlsx    
+### Dashboard
+          → Dashboard_file.xlsx 
+### Images 
+          → cover.png 
+          → dashboard-1-ecommerce.png
+          → dashboard-2-product.png 
+          → dashboard-3-customer.png 
+          → dashboard-4-region.png
+###
+          → Project_NoteBook.pdf
+
 
 # How to Use
-1 * Download dashboard/ecommerce_sales_dashboard.xlsx.
-2 * Open it in Microsoft Excel (desktop, 2016 or later).
-3 * Use the numbered buttons on the left to switch between pages.
-4 * Use the slicers and timelines to filter the data. Click the filter-clear icon to reset.
+ * 1.Download dashboard/ecommerce_sales_dashboard.xlsx.
+ * 2.Open it in Microsoft Excel (desktop, 2016 or later).
+ * 3.Use the numbered buttons on the left to switch between pages.
+ * 4.Use the slicers and timelines to filter the data. Click the filter-clear icon to reset.
 
 # Author👤 
 
-Saif Mahmud 🔗 LinkedIn
+Saif Mahmud 🔗 [View my Professional Profile](https://www.linkedin.com/in/saifmahmudsm/)
 
 If you found this project useful, feel free to ⭐ the repo and connect with me.
