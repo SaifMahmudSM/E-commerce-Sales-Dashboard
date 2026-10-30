@@ -29,7 +29,8 @@ The workbook has four pages linked by a navigation bar (buttons 1–4).
 * Month-wise revenue and achievement % (2025 / 2026 toggle)
 * Orders by year (69% / 31% split)
 * Shop-type sales: Express ($2.22M), Outlet ($2.11M), Mall ($2.10M), Flagship ($1.99M), Standard ($1.96M)
-* Manager slicer to filter the whole page
+* Manager slicer to filter the whole page.
+  
 ![Alt Text](Images/Dashboard-1-Ecommerce.png)
 
 ## 2. Product Analysis Dashboard
@@ -38,7 +39,9 @@ The workbook has four pages linked by a navigation bar (buttons 1–4).
 * Top 10 vs remaining 40 products: top 10 contribute ~63% of revenue
 * Top 10 / Bottom 10 selling products (Electric Kettle, USB-C Hub, Smart Watch lead)
 * Category table with target, revenue, profit and avg discount using conditional formatting
-* Month timeline slicer
+* Month timeline slicer.
+
+  ![Alt Text](Images/Dashboard-2-Product.png)
 
 ## 3. Customer Analysis Dashboard
    
@@ -47,7 +50,9 @@ The workbook has four pages linked by a navigation bar (buttons 1–4).
 * Gender contribution: Female 54% / Male 46%
 * Orders by age group (Adult 466, Old 119, Senior 415)
 * Top 5 customers by revenue (funnel chart)
-* Age group and gender slicers
+* Age group and gender slicers.
+
+  ![Alt Text](Images/Dashboard-3-Customer.png)
 
 ## 4. Region Analysis Dashboard
 
@@ -56,6 +61,8 @@ The workbook has four pages linked by a navigation bar (buttons 1–4).
 * Region-wise customer rating distribution (1–5)
 * Region-wise average delivery days (Rangpur slowest at 6.43, Dhaka fastest at 2.97)
 * Month timeline slicer
+
+  ![Alt Text](Images/Dashboard-4-Region.png)
 
 # Key Insights 💡
 * Overall target achievement is 90.99%, leaving a gap of about $1.03M to target.
