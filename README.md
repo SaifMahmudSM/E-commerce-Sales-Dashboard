@@ -79,17 +79,17 @@ The workbook has four pages linked by a navigation bar (buttons 1–4).
           → README.md
    
 ### Data
-          → Data.xlsx    
+           Data.xlsx    
 ### Dashboard
           → Dashboard_file.xlsx 
 ### Images 
-          → cover.png 
-          → dashboard-1-ecommerce.png
-          → dashboard-2-product.png 
-          → dashboard-3-customer.png 
-          → dashboard-4-region.png
+           cover.png 
+           dashboard-1-ecommerce.png
+           dashboard-2-product.png 
+           dashboard-3-customer.png 
+           dashboard-4-region.png
 ###
-          → Project_NoteBook.pdf
+           Ecommerce_Dashboard_Protfolio.pdf
 
 
 # How to Use
