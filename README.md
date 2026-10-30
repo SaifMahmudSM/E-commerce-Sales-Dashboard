@@ -76,12 +76,11 @@ The workbook has four pages linked by a navigation bar (buttons 1–4).
 # Repository Structure 📁
 ## ecommerce-sales-dashboard/
 ####  README.md
-          → README.md
-   
+          README.md
 ### Data
            Data.xlsx    
 ### Dashboard
-          → Dashboard_file.xlsx 
+           Dashboard_file.xlsx 
 ### Images 
            cover.png 
            dashboard-1-ecommerce.png
@@ -93,10 +92,10 @@ The workbook has four pages linked by a navigation bar (buttons 1–4).
 
 
 # How to Use
- * 1.Download dashboard/ecommerce_sales_dashboard.xlsx.
- * 2.Open it in Microsoft Excel (desktop, 2016 or later).
- * 3.Use the numbered buttons on the left to switch between pages.
- * 4.Use the slicers and timelines to filter the data. Click the filter-clear icon to reset.
+ * 1. Download dashboard/ecommerce_sales_dashboard.xlsx.
+ * 2. Open it in Microsoft Excel (desktop, 2016 or later).
+ * 3. Use the numbered buttons on the left to switch between pages.
+ * 4. Use the slicers and timelines to filter the data. Click the filter-clear icon to reset.
 
 # Author👤 
 
