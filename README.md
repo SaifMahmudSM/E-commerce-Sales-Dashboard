@@ -8,16 +8,16 @@ Compare regional performance, delivery speed and customer satisfaction.
 Understand customer demographics and who drives revenue.
 
 # Headline KPIs 📈 
-### Metric                     Value
-### Total Target             	$11.40M
-### Total Revenue	            $10.37M
-### Total Profit	            $3.44M
-### Achievement %	            90.99%
-### Total Orders	            1.00K
-### Quantity Sold	            3.40K
-### Total Customers	          200
-### Avg Order Value	          $10.37K
-### Avg Discount	            9.01%
+* Metric                       Value
+* Total Target             	$11.40M
+* Total Revenue	            $10.37M
+* Total Profit	               $3.44M
+* Achievement %	            90.99%
+* Total Orders	               1.00K
+* Quantity Sold	            3.40K
+* Total Customers	            200
+* Avg Order Value	            $10.37K
+* Avg Discount	               9.01%
 
 # Dashboard Pages
 The workbook has four pages linked by a navigation bar (buttons 1–4).
